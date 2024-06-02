@@ -1,7 +1,6 @@
 # Sutta-Game
 > python으로 만드는 섰다 게임
 
-***
 ## 문제 정의 및 구현 목표
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/f9322da2-f27a-4453-86f7-49b2ee125b8a)
