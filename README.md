@@ -1,28 +1,29 @@
 # Sutta-Game
 > python으로 만드는 섰다 게임
 
+***
 ## 문제 정의 및 구현 목표
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/f9322da2-f27a-4453-86f7-49b2ee125b8a)
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/e8829fe1-949d-4d5a-bace-e9acd766ee01)
-
+***
 ## Flow Chart
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/473f93de-5c61-4bfa-a306-2c8ec26d609f)
-
+***
 ## DataBase
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/f032b79c-acfb-4aae-8e11-12c25f5abc36)
-
+***
 ## Class Diagram
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/a0caaac5-4a9e-4cb3-bd69-6710d83ebbf2)
-
+***
 ## Sequence Diagram
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/bc7921db-2bd1-489c-a5f4-4983acea74f9)
-
+***
 ## 코드 구현 및 해석
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/10ee7561-6b43-41a2-a6c6-4c8556e0939b)
@@ -59,7 +60,7 @@
 
 ![image](https://github.com/tina908/Sutta-Game/assets/68736697/76821fac-3038-4820-b467-729648dd90be)
 
-
+***
 
 
 
